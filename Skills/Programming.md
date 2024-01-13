@@ -4,118 +4,118 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-- Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
+  - Semantics 👂 heard
+  - Code 🙋 explained
+  - Programm 🖐️ used
+  - Programming paradigm 🖐️ used
+  - Programming language 🖐️ used
+  - Software engineering 🙋 explained
+  - Decomposition -
+  - Control flow -
+  - Data flow 👂 heard
+- Syntax and concepts 👂 heard
+  - value 🖐️ used
+  - identifier 🎓 known
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 👂 heard
+  - literal 👂 heard
+  - expression 🖐️ used
+  - heap 🎓 known
+  - function 🖐️ used 
+  - procedure 🖐️ used 
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 👂 heard
+  - event 🙋 explained
+  - type 👂 heard
+  - primitive types 👂 heard
+  - reference types 👂 heard
+  - flag 👂 heard
+  - lexical scope -
+  - code block -
+  - conditions 🙋 explained
+  - loops 🙋 explained
+  - assignment 👂 heard
+  - regular expression 
+  - interface 🖐️ used 
+  - contract -
+  - module -
+  - call stack 🎓 known
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function -
+  - lambda expression -
+  - side effects -
+  - closure 👂 heard
+  - partial application -
+  - curry -
+  - higher order 👂 heard
+  - recursion 🖐️ used
+  - callback 👂 heard
+  - listener -
+  - compose -
+  - pipe -
+  - memoize -
+  - wrapper -
+  - functor -
+  - monad -
+  - monoid -
+  - generator -
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 👂 heard
+  - record - 
+  - enum 🖐️ used
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection -
+  - set 🎓 known
+  - hash table 🎓 known
+  - linked list -
+  - doubly list -
+  - unrolled list -
+  - circular list -
+  - queue 🎓 known
+  - stack 🎓 known
+  - deque - 
+  - tree 🎓 known
+  - graph 🎓 known
+  - iterator 🖐️ used
+  - mutable state -
+  - immutable state -
+  - serialization -
+  - string parsing -
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler 🎓 known
+  - transpiler - 
+  - linter -
+  - polyfill -
+  - debugger 🎓 known
+  - garbage collection 🎓 known
+  - refactoring - 
+  - code review 👂 heard
+  - antipatterns 👂 heard
+  - paradigm 🎓 known
+  - algorithm 🎓 known
+  - magic numbers 🖐️ used
+  - hardcode -
+  - complexity -
+  - decomposition -
+  - spaghetti 🎓 known
+  - silver bullet -
+  - not invented here -
+  - dead code -
+  - unreachable code -
+  - duplicate code 👂 heard
+  - exception 🎓 known
+  - return early -
+  - unittest -
+  - git 👂 heard
+  - github 👂 heard
