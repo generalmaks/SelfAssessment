@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model 👂 heard
+  - Modeling 👂 heard
+  - Subject domain 👂 heard
   - Algorithm 🙋 explained
   - Syntax 🙋 explained
   - Semantics 👂 heard
