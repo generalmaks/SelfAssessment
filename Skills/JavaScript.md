@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Object 👂 heard
+  - this 🎓 known
+  - arrow function 👂 heard
+  - async function -
+  - call -
+  - bind -
+  - apply -
+  - instanceof 👂 heard
+  - ...spread -
+  - ...rest -
+  - typeof 🙋 explained
+  - destructuring -
+  - generator -
+  - iterator 👂 heard
+  - async generator -
+  - async iterator -
+  - chaining -
+  - optional chaining -
+  - IIFE -
+  - global 👂 heard
+  - globalThis -
+  - window -
+  - getters and setters 🙋 explained
+  - __proto__ -
+  - prototype -
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🙋 explained
+  - ternary operator 🙋 explained
+  - void 🙋 explained
+  - yield -
+  - await -
+  - template literal -
+  - strict mode -
+  - delete 👂 heard
+  - in -
+  - super -
+  - Symbol -
+  - Reflect -
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
+  - for..in 🙋 explained
+  - for..of 🙋 explained
+  - for await -
+  - throw 👂 heard
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🙋 explained
+  - export 🙋 explained
+  - label 👂 heard
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🙋 explained 
+  - new Error -
+  - with -
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
+  - functional object -
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array 🙋 explained 
+  - mixin -
+  - extend -
+  - typed arrays -
+  - Map 🙋 explained
+  - Set 🙋 explained
+  - undefined 👂 heard
+  - null 🙋 explained
+  - Proxy -
+  - weak collections -
+  - timers - 
+  - EventEmitter 🖐️ used
+  - RegExp -
+  - Date -
+  - BigInt -
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 -
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier -
+  - MDN -
