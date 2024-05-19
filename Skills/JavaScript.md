@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
+  - Object h
+  - this h
   - arrow function
   - async function
   - call
   - bind
   - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
+  - instanceof k
+  - ...spread 
+  - ...rest 
+  - typeof u
   - destructuring
   - generator
-  - iterator
+  - iterator u
   - async generator
   - async iterator
   - chaining
@@ -23,14 +23,14 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters u
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators e
+  - logical operators e
+  - bitwise operators e
+  - ternary operator u
+  - void 
   - yield
   - await
   - template literal
@@ -41,43 +41,43 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if e
+  - while e
+  - do..while e
+  - for e
+  - for..in e
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw e
+  - break e
+  - continue e
+  - import e
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch e
+  - switch e
+  - class e
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration e
+  - function expression e
+  - return e
+  - default parameters e
   - functional object
 - Data structures
-  - Array
+  - Array e
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
+  - typed arrays e
+  - Map e
+  - Set e
   - undefined
-  - null
+  - null e
   - Proxy
   - weak collections
-  - timers
-  - EventEmitter
+  - timers e
+  - EventEmitter e
   - RegExp
   - Date
   - BigInt
