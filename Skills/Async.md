@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop h 
+  - try..catch k
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,7 +19,7 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread k
   - Process
 - Async contracts
   - Callbacks
@@ -33,7 +33,7 @@
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine
+  - Coroutine k
   - Goroutine
   - Signal
   - Stream
