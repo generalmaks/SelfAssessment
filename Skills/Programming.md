@@ -1,61 +1,61 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Algorithm u
+  - Syntax u
+  - Semantics k
+  - Code e
+  - Programm e
+  - Programming paradigm e
+  - Programming language e
   - Software engineering
   - Decomposition
   - Control flow
   - Data flow
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
+  - value e
+  - identifier e
+  - variable e
+  - constant e
+  - scalar e
+  - literal e
+  - expression e
+  - heap k
+  - function e
+  - procedureh
+  - method e
+  - class e
   - prototype
-  - event
-  - type
+  - event e
+  - type h
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block k
+  - conditions e
+  - loops e
+  - assignment e
   - regular expression
-  - interface
+  - interface h
   - contract
   - module
-  - call stack
+  - call stack h
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature e
+  - argument e
+  - parameter e
+  - pure function h
   - lambda expression
-  - side effects
-  - closure
+  - side effects e
+  - closure 
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion t
   - callback
   - listener
   - compose
@@ -66,56 +66,56 @@
   - monad
   - monoid
   - generator
-  - coroutine
+  - coroutine k
 - Data structures
-  - array
-  - structure
+  - array e
+  - structure e
   - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
+  - enum e
+  - instance e
+  - object e
+  - class e
+  - collection 
+  - set e
+  - hash table e
+  - linked list e
+  - doubly list e
+  - unrolled list k
+  - circular list e
+  - queue e
+  - stack e
+  - deque c
+  - tree e
+  - graph c
+  - iterator e
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler e
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - debugger e
+  - garbage collection e
+  - refactoring k
+  - code review k
+  - antipatterns e
+  - paradigm k
+  - algorithm e
+  - magic numbers e
+  - hardcode e
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti e
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - dead code e
+  - unreachable code e
+  - duplicate code e
+  - exception h
   - return early
   - unittest
-  - git
-  - github
+  - git h
+  - github u
