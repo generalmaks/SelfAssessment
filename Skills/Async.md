@@ -1,95 +1,55 @@
-## Asynchronous programming
+## Architecture
 
-- Theory
-  - Event loop h 
-  - try..catch k
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread k
-  - Process
-- Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine k
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
-- Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
-- Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
-- JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
-- Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+- Application structure and architecture
+- Application structure
+  - Modularity h
+  - Components h
+  - Directories h
+  - GRASP -
+  - SOLID -
+  - GoF patterns h
+  - Leaking abstractions h
+  - Multiparadigm code k
+  - Domain-specific language (DSL)
+  - Contract programming
+  - Separation of system and applied
+  - Platform-agnostic
+  - Transport-agnostic
+- Application architecture
+  - Isolation between layer h
+  - Multilayer approach h
+  - Separation of concerns
+  - Inversion of control
+  - Dependency injection
+  - Distributed systems
+  - Highload applications
+  - Clean architecture
+  - Domain-driven design
+  - Message Queue
+  - CQS
+  - CQRS
+  - Event sourcing
+  - Load balancing
+  - Gateways
+  - Serverless
+  - FaaS clouds
+  - Metaprogramming
+- Solution srchitecture
+  - A software requirements specification (SRS)
+  - Visions
+  - Capabilities
+  - Process modelling
+  - Data modelling
+  - Modularity h
+  - Components h
+  - Risk assessment h
+  - Non Functional Requirements (NFR)
+- Enterprise architecture
+  - Understanding business needs
+  - Strategy
+  - Integration with subsystems
+  - Visions
+  - Capabilities
+  - Project scope
+  - Work breakdown structure
+  - Budget estimation

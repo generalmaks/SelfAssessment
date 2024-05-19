@@ -1,55 +1,99 @@
 ## Architecture
 
-- Application structure and architecture
 - Application structure
   - Modularity h
   - Components h
   - Directories h
-  - GRASP -
-  - SOLID -
+  - GRASP
+  - SOLID
   - GoF patterns h
   - Leaking abstractions h
   - Multiparadigm code k
   - Domain-specific language (DSL)
   - Contract programming
-  - Separation of system and applied
   - Platform-agnostic
   - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
+  - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
-  - Multilayer approach h
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - Distributed systems
-  - Highload applications
+  - Isolation between layer
+  - Multilayer approach
+  - Hexagonal architecture
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
   - Clean architecture
-  - Domain-driven design
-  - Message Queue
-  - CQS
+  - Domain-driven design (DDD)
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
+  - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - Load balancing
-  - Gateways
-  - Serverless
-  - FaaS clouds
-  - Metaprogramming
-- Solution srchitecture
-  - A software requirements specification (SRS)
-  - Visions
-  - Capabilities
-  - Process modelling
-  - Data modelling
-  - Modularity h
-  - Components h
-  - Risk assessment h
-  - Non Functional Requirements (NFR)
-- Enterprise architecture
-  - Understanding business needs
-  - Strategy
-  - Integration with subsystems
-  - Visions
-  - Capabilities
-  - Project scope
+  - E-R data modeling
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML
   - Work breakdown structure
   - Budget estimation
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Modularity
+  - Components
+  - Risk assessment
+  - Non Functional Requirements (NFR)
+  - Clouds
+  - BPMN
+  - Low-code
+  - No-code
+  - Metric
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
+- Enterprise architecture
+  - Understanding business needs h
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
+  - Enterprise capabilities
+  - Project scope
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene
