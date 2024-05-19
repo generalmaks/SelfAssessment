@@ -2,22 +2,22 @@
 
 - Application structure and architecture
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Leaking abstractions
-  - Multiparadigm code
+  - Modularity h
+  - Components h
+  - Directories h
+  - GRASP -
+  - SOLID -
+  - GoF patterns h
+  - Leaking abstractions h
+  - Multiparadigm code k
   - Domain-specific language (DSL)
   - Contract programming
   - Separation of system and applied
   - Platform-agnostic
   - Transport-agnostic
 - Application architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer h
+  - Multilayer approach h
   - Separation of concerns
   - Inversion of control
   - Dependency injection
@@ -40,9 +40,9 @@
   - Capabilities
   - Process modelling
   - Data modelling
-  - Modularity
-  - Components
-  - Risk assessment
+  - Modularity h
+  - Components h
+  - Risk assessment h
   - Non Functional Requirements (NFR)
 - Enterprise architecture
   - Understanding business needs
