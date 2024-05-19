@@ -1,48 +1,48 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming k
+  - Imperative programming k
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming k
+  - Prototype-based programming h
+  - Object-oriented programming e
   - Object-based programming
-  - Generic programming
+  - Generic programming 
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming h
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming k
+  - Metaprogramming h
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor e
+  - new e
   - Static method
-  - Method
+  - Method e
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Getters, Setters e
+  - Public fields e
+  - Private fields e
+  - Field declarations u
+  - Inheritance e
+  - Parent class e
+  - Polymorphism h
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface e
+  - Encapsulation e
   - Hidden class
   - Object form
-  - instance
+  - instance e
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton e
   - Factory Method
   - Abstract Factory
   - Adapter
